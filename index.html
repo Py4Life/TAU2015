@@ -1,1 +1,105 @@
-"My GitHub Page" 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Python Programming for Engineers / Fall 2014</title>
+  <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="css/footer.css" rel="stylesheet" media="screen">
+    <link href="css/style.css" rel="stylesheet" media="screen">
+  <script src="js/jquery-1.10.2.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+  <style type="text/css">
+  .p {
+    margin-top: 40px;
+  }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="masthead">
+      <h2 class="muted">
+        Python Programming for Engineers
+      </h2>
+      <h3 class="muted">
+        Tel-Aviv University / 0509-1820 / Fall 2014
+      </h3>
+      <div class="navbar navbar-inverse">
+        <div class="navbar-inner">
+          <div class="container">
+            <ul class="nav" id="menu">
+              <li id="admin"><a href="javascript:change_tab('admin')">Admin</a></li>
+              <li id="lectures"><a href="javascript:change_tab('lectures')">Lectures</a></li>
+              <li id="recitations"><a href="javascript:change_tab('recitations')">Recitations</a></li>
+              <li id="exercises"><a href="javascript:change_tab('exercises')">Exercises</a></li>
+              <li id="exams"><a href="javascript:change_tab('exams')">Exams</a></li>
+              <li id="moodle"><a href="http://moodle.tau.ac.il/course/view.php?id=509182099" target="_blank">Moodle</a></li>
+              <li id="forum"><a href="#" target="_blank" style="pointer-events: none;cursor: default;">Forum</a></li>                            
+            </ul>
+          </div>
+        </div>
+      </div><!-- /.navbar -->
+    </div>
+
+    <script type="text/javascript">
+    function change_tab(selection) {
+      $.ajax({
+        url: selection + ".html",
+        dataType: "html",
+        cache: false,
+        success: function(data) {
+          $('#menu').children().removeClass();
+          $('#'+selection).addClass('active');
+          $("#title").html(selection.charAt(0).toUpperCase() + selection.slice(1));
+          $("#content").fadeOut(function() {
+            $(this).html(data).slideDown();
+          });
+        }
+      });
+    }
+    change_tab("admin");
+    </script>
+
+    <div class="row" style="margin-bottom: 20px;">
+      <div class="container">
+        <h3 style="text-align: center" id="title">
+        </h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="container" id="content">
+
+      </div>
+    </div>
+
+    <footer class="colophon"> 
+      <div class="container">
+        <ul class="footer-links">
+          <li><a href="http://www.tau.ac.il" target="_blank">Tel-Aviv University</a></li>
+          <li class="muted">&middot;</li>
+          <li><a href="http://maintenance.tau.ac.il/halls/" target="_blank">University Map</a></li>
+          <li class="muted">&middot;</li>
+          <li><a href="http://www.eng.tau.ac.il/" target="_blank">Engineering Faculty</a></li>
+          <li class="muted">&middot;</li>
+          <li><a href="http://python.org/" target="_blank">Python</a></li>
+          <li><a href="http://moodle.tau.ac.il/course/view.php?id=509182099" target="_blank">Moodle</a></li>
+        </ul>
+                  
+        <p>
+          Code licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a> | 
+          <a href="http://glyphicons.com">Glyphicons Free</a> licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a> | <a href="http://bootswatch.com/2/spacelab/" target="_blank">Bootswatch Spacelab theme</a> licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache v2.0</a>.
+        </p>
+        <p>
+          <a href="http://cs.tau.ac.il"><img src="img/TAU-CS-full-300px.png"></a>
+        </p>
+
+      </div>
+    </footer>
+
+  </body>
+
+  </html>
