@@ -1,4 +1,6 @@
 Py4Life
 =======
 
-Python Programming for Graduate Students in Life Science
+Python Programming for Biologists.
+
+See <http://yoavram.github.io/Py4Life>.
