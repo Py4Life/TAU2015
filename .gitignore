@@ -53,4 +53,5 @@ docs/_build/
 target/
 
 # IPython
-.ipynb_checkpointsipynb.bat 
+.ipynb_checkpoints
+ipynb.bat 
