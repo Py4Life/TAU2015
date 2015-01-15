@@ -55,3 +55,7 @@ target/
 # IPython
 .ipynb_checkpoints
 ipynb.bat 
+
+# data files
+*.csv
+*.zip
