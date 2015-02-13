@@ -1,6 +1,6 @@
 Py4Life
 =======
 
-Python Programming for Biologists.
+A Python programming course for graduate students in the life sciences
 
-See website at <http://yoavram.github.io/Py4Life> and IPython notebooks viewer at <http://nbviewer.ipython.org/github/yoavram/Py4Life/tree/master/>.
+See website at <http://Py4Life.yoavram.com/> and IPython notebooks viewer at <http://nbviewer.ipython.org/github/yoavram/Py4Life/tree/master/>.
