@@ -4,4 +4,4 @@ Python Programming for Biologists Tel-Aviv University / 0411-3122 / Spring 2015
 
 This is the course website source.
 
-The actual website is currently hosted by github pages at <http://Py4Life.github.io/TAU2015>.
+The actual website is currently hosted by github pages at <http://py4life.github.io/TAU2015>.
