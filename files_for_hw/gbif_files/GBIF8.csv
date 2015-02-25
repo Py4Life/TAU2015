@@ -1,0 +1,501 @@
+,name,scientificName,genus,decimalLongitude,decimalLatitude,country
+1,Kinixys natalensis,"Kinixys natalensis Hewitt, 1935",Kinixys,31.79826,-28.25484,South Africa
+2,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,35.206,-18.045,Mozambique
+3,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.12589,-25.61495,South Africa
+4,Kinixys,"Kinixys Bell, 1827",Kinixys,13.69606,7.13354,Cameroon
+5,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,2.1666,6.9166,Benin
+6,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,2.1666,6.9166,Benin
+7,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,2.1666,6.9166,Benin
+8,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.87376,-26.25307,Swaziland
+9,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,30.20657,-12.55071,Zambia
+10,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,35.23281,-18.04664,Mozambique
+11,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,10.15758,2.14106,Equatorial Guinea
+12,Kinixys,"Kinixys Bell, 1827",Kinixys,10.05225,1.85437,Equatorial Guinea
+13,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,35.18293,-12.86946,Mozambique
+14,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,35.18503,-12.86745,Mozambique
+15,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,35.18293,-12.86946,Mozambique
+16,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,United States
+17,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,-8.18883,5.57057,Liberia
+18,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,30.60682,-1.55188,Rwanda
+19,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,21.58264,-18.11141,Namibia
+20,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.63822,-13.90241,Zambia
+21,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+22,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+23,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,South Africa
+24,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,South Africa
+25,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,South Africa
+26,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,South Africa
+27,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+28,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+29,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+30,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+31,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+32,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+33,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+34,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,South Africa
+35,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,-9.736,8.032,Liberia
+36,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,-7.732,5.403,Liberia
+37,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,South Africa
+38,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,23.431,1.294,The Democratic Republic of the Congo
+39,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,23.431,1.294,The Democratic Republic of the Congo
+40,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Ghana
+41,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Ghana
+42,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,-2.4,5.2,Ghana
+43,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,-8.573,8.139,Guinea
+44,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,-8.212,7.604,Guinea
+45,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,-8.933,7.533,Guinea
+46,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,NA
+47,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+48,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+49,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+50,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+51,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+52,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+53,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+54,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+55,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+56,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,-7.316,4.9,C<U+00F4>te d'Ivoire
+57,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+58,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+59,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,United States
+60,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,10.3883,1.5717,Equatorial Guinea
+61,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,10.26667,0.63333,Gabon
+62,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,10.31667,0.56667,Gabon
+63,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+64,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,0,0,Congo
+65,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+66,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+67,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+68,Kinixys natalensis,"Kinixys natalensis Hewitt, 1935",Kinixys,NA,NA,NA
+69,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,-0.70806,5.3875,Ghana
+70,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+71,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.83333,-23.2,South Africa
+72,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.5,-26.06667,Swaziland
+73,Kinixys natalensis,"Kinixys natalensis Hewitt, 1935",Kinixys,NA,NA,South Africa
+74,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+75,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,12.81167,3.19056,Cameroon
+76,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,12.81167,3.19056,Cameroon
+77,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.83333,-23.2,South Africa
+78,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+79,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+80,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Cameroon
+81,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.75,-26.61667,Swaziland
+82,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.41667,-28.4,South Africa
+83,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.46667,-24.63333,South Africa
+84,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+85,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.46667,-24.63333,South Africa
+86,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Liberia
+87,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,32,-26.75,Swaziland
+88,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,32,-26.75,Swaziland
+89,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+90,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,29.98333,-28.85,South Africa
+91,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.71667,-25.95,Swaziland
+92,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+93,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+94,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+95,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+96,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+97,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,NA
+98,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,30.93333,-25.51667,South Africa
+99,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,30.96667,-25.53333,South Africa
+100,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,37.75,-4.06667,"Tanzania, United Republic of"
+101,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,28.95,-23.05,South Africa
+102,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.68333,-24.86667,South Africa
+103,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,30.88333,-23.75,South Africa
+104,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.4,-24.65,South Africa
+105,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,31.45,-24.6,South Africa
+106,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.55,-24.61667,South Africa
+107,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.25,-24.56667,South Africa
+108,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.51667,-24.7,South Africa
+109,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.16667,-25.68333,South Africa
+110,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.56667,-24.65,South Africa
+111,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.06667,-24.53333,South Africa
+112,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.46667,-24.63333,South Africa
+113,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.35,-24.65,South Africa
+114,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.25,-26.91667,South Africa
+115,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.51667,-25.51667,South Africa
+116,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.85,-25.15,South Africa
+117,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,28.21667,-25.73333,South Africa
+118,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.46667,-24.63333,South Africa
+119,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,30.86667,-24.45,South Africa
+120,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.56667,-24.65,South Africa
+121,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.45,-24.6,South Africa
+122,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,30.95,-24.35,South Africa
+123,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,NA
+124,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.15,-25.71667,South Africa
+125,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,29.98333,-28.85,South Africa
+126,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,20.83333,-25.2,South Africa
+127,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.53333,-27.66667,South Africa
+128,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.28333,-28.45,South Africa
+129,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+130,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.6,-25.68333,South Africa
+131,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+132,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.3,-25.68333,South Africa
+133,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.38333,-27.98333,South Africa
+134,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.76667,-26.7,Swaziland
+135,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,NA
+136,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+137,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.36667,-27.5,South Africa
+138,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,"Tanzania, United Republic of"
+139,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,South Africa
+140,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+141,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+142,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.05,-25.85,South Africa
+143,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+144,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+145,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+146,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+147,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+148,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+149,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+150,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+151,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,"Tanzania, United Republic of"
+152,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+153,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+154,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+155,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+156,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+157,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,Kenya
+158,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.18333,-28.41667,South Africa
+159,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,Kenya
+160,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Kenya
+161,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,South Africa
+162,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+163,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.48333,-28.26667,South Africa
+164,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+165,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,21.58333,-18.11667,Namibia
+166,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,21.85,2.58,The Democratic Republic of the Congo
+167,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,21.85,2.58,The Democratic Republic of the Congo
+168,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,19.35,3.03,The Democratic Republic of the Congo
+169,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,19.35,3.03,The Democratic Republic of the Congo
+170,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,19.35,3.03,The Democratic Republic of the Congo
+171,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Kenya
+172,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Togo
+173,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+174,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,South Africa
+175,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,South Africa
+176,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,South Africa
+177,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,35.11667,-0.1,Kenya
+178,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,South Africa
+179,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+180,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.55,-26.55,Swaziland
+181,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,South Africa
+182,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+183,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Kenya
+184,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Kenya
+185,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+186,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+187,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+188,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+189,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+190,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,29.98333,-28.85,South Africa
+191,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Kenya
+192,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.76667,-27.26667,South Africa
+193,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.76667,-27.26667,South Africa
+194,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Kenya
+195,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,South Africa
+196,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+197,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,21.88333,-18.55,Botswana
+198,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Kenya
+199,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.21667,-25.68333,South Africa
+200,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,NA
+201,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,South Africa
+202,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Mozambique
+203,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,NA
+204,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,NA
+205,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Senegal
+206,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,-1.43333,14.91667,Mali
+207,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,Mozambique
+208,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,NA
+209,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.41667,-28.2,South Africa
+210,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.41667,-28.2,South Africa
+211,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+212,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,NA
+213,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.36667,-26.48333,Swaziland
+214,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+215,Kinixys,"Kinixys Bell, 1827",Kinixys,9.65,4.8333,Cameroon
+216,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+217,Kinixys,"Kinixys Bell, 1827",Kinixys,9.65,4.8333,Cameroon
+218,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+219,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+220,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+221,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+222,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+223,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.28333,-28.01667,South Africa
+224,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.28333,-28.01667,South Africa
+225,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Ghana
+226,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Nigeria
+227,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Nigeria
+228,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Ghana
+229,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+230,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+231,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Ghana
+232,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,Kenya
+233,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,Ghana
+234,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Ghana
+235,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Ghana
+236,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,Ghana
+237,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Ghana
+238,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Ghana
+239,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,Ghana
+240,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+241,Kinixys,"Kinixys Bell, 1827",Kinixys,9.4167,4.2667,Cameroon
+242,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+243,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+244,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Ghana
+245,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Ghana
+246,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Ghana
+247,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Ghana
+248,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+249,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.2,-25.53333,South Africa
+250,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,29.28333,-24.96667,South Africa
+251,Kinixys,"Kinixys Bell, 1827",Kinixys,9.65,4.8333,Cameroon
+252,Kinixys,"Kinixys Bell, 1827",Kinixys,9.4333,4.65,Cameroon
+253,Kinixys,"Kinixys Bell, 1827",Kinixys,9.4333,4.65,Cameroon
+254,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+255,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,13.53333,-15.31667,Angola
+256,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+257,Kinixys,"Kinixys Bell, 1827",Kinixys,9.4333,4.65,Cameroon
+258,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,32.26667,-26.88333,South Africa
+259,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,NA
+260,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+261,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+262,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,29.1,-22.66667,South Africa
+263,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,38.41667,-2.18333,Kenya
+264,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,NA
+265,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,NA
+266,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,NA
+267,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+268,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,29.38333,-25.41667,South Africa
+269,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,30.15,0.8,Uganda
+270,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+271,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+272,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,The Democratic Republic of the Congo
+273,Kinixys belliana,"Kinixys belliana nogueyi (Lataste, 1886)",Kinixys,0.5,11.7,Burkina Faso
+274,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+275,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,NA
+276,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,NA
+277,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Liberia
+278,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,35.93333,-0.01667,Kenya
+279,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,NA
+280,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,36.05669,0.80875,Kenya
+281,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+282,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,-0.85,6.1,Ghana
+283,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,-0.85,6.1,Ghana
+284,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,-0.85,6.1,Ghana
+285,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.21667,-25.68333,South Africa
+286,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.59648,3.01068,Uganda
+287,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.59648,3.01068,Uganda
+288,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,28.21667,-25.68333,South Africa
+289,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+290,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,30.88333,1.25,Uganda
+291,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.25,-26.91667,South Africa
+292,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.25,-26.91667,South Africa
+293,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.25,-26.91667,South Africa
+294,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.25,-26.91667,South Africa
+295,Kinixys belliana,"Kinixys belliana nogueyi (Lataste, 1886)",Kinixys,NA,NA,NA
+296,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,-0.83333,6.08333,Ghana
+297,Kinixys belliana,"Kinixys belliana nogueyi (Lataste, 1886)",Kinixys,NA,NA,Senegal
+298,Kinixys belliana,"Kinixys belliana nogueyi (Lataste, 1886)",Kinixys,NA,NA,Senegal
+299,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+300,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,39.8333,-3.5,Kenya
+301,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,-0.83333,6.08333,Ghana
+302,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+303,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Gabon
+304,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,NA
+305,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,33.3,-24.93333,Mozambique
+306,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,33.3,-24.93333,Mozambique
+307,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,NA
+308,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,29.7,-22.9,South Africa
+309,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,39.1,-6.9,"Tanzania, United Republic of"
+310,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,39.1,-6.9,"Tanzania, United Republic of"
+311,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,39.1,-6.9,"Tanzania, United Republic of"
+312,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+313,Kinixys,"Kinixys Bell, 1827",Kinixys,NA,NA,Cameroon
+314,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Somalia
+315,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Somalia
+316,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.56667,0.33333,Uganda
+317,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,Kenya
+318,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+319,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,-0.83333,6.08333,Ghana
+320,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Congo
+321,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,NA
+322,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,NA,NA,The Democratic Republic of the Congo
+323,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,NA,NA,The Democratic Republic of the Congo
+324,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+325,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+326,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,27.418,-9.38717,The Democratic Republic of the Congo
+327,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,36.89957,-3.33344,"Tanzania, United Republic of"
+328,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+329,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,Rwanda
+330,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Rwanda
+331,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Rwanda
+332,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,NA
+333,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+334,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,28.07433,-1.42667,The Democratic Republic of the Congo
+335,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Cameroon
+336,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,29.28333,-24.96667,South Africa
+337,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.36667,-26.48333,Swaziland
+338,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Congo
+339,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+340,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Liberia
+341,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,South Africa
+342,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+343,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+344,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+345,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+346,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,"Tanzania, United Republic of"
+347,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Uganda
+348,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Zimbabwe
+349,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,29.52,0.699,The Democratic Republic of the Congo
+350,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Congo
+351,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+352,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Congo
+353,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+354,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+355,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+356,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,"Tanzania, United Republic of"
+357,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,"Tanzania, United Republic of"
+358,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,NA,NA,The Democratic Republic of the Congo
+359,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,NA,NA,The Democratic Republic of the Congo
+360,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,29.33333,4.16667,The Democratic Republic of the Congo
+361,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,NA
+362,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+363,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,NA,NA,The Democratic Republic of the Congo
+364,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Zambia
+365,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,29.25,4.33333,The Democratic Republic of the Congo
+366,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,29.25,4.33333,The Democratic Republic of the Congo
+367,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Sudan
+368,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,29.25,4.33333,The Democratic Republic of the Congo
+369,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,29.25,4.33333,The Democratic Republic of the Congo
+370,Kinixys belliana,"Kinixys belliana nogueyi (Lataste, 1886)",Kinixys,NA,NA,"Tanzania, United Republic of"
+371,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,29.25,4.33333,The Democratic Republic of the Congo
+372,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,29.25,4.33333,The Democratic Republic of the Congo
+373,Kinixys belliana,"Kinixys belliana nogueyi (Lataste, 1886)",Kinixys,38,-9.5,"Tanzania, United Republic of"
+374,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Sierra Leone
+375,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,NA
+376,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,29.25,4.33333,The Democratic Republic of the Congo
+377,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,NA,NA,The Democratic Republic of the Congo
+378,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Sierra Leone
+379,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,NA,NA,The Democratic Republic of the Congo
+380,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+381,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,31.98333,-7.41667,"Tanzania, United Republic of"
+382,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,"Tanzania, United Republic of"
+383,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,"Tanzania, United Republic of"
+384,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,21.51667,2.15,The Democratic Republic of the Congo
+385,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+386,Kinixys belliana,"Kinixys belliana mertensi Laurent, 1956",Kinixys,21.51667,2.15,The Democratic Republic of the Congo
+387,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,23.96667,-6.76667,The Democratic Republic of the Congo
+388,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+389,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Malawi
+390,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+391,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+392,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+393,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+394,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,Sudan
+395,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+396,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+397,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+398,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+399,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+400,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+401,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+402,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+403,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+404,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+405,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,Congo
+406,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+407,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+408,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,"Tanzania, United Republic of"
+409,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,25.93333,2.96667,The Democratic Republic of the Congo
+410,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,25.93333,2.96667,The Democratic Republic of the Congo
+411,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+412,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+413,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,25.93333,2.96667,The Democratic Republic of the Congo
+414,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,24.45,0.76667,The Democratic Republic of the Congo
+415,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,"Tanzania, United Republic of"
+416,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+417,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,"Tanzania, United Republic of"
+418,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,30.43333,-1.51667,Rwanda
+419,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Zambia
+420,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,30.56667,-24.73333,South Africa
+421,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Liberia
+422,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Zambia
+423,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Zambia
+424,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Zambia
+425,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,Zambia
+426,Kinixys lobatsiana,"Kinixys lobatsiana Power, 1927",Kinixys,NA,NA,NA
+427,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Cameroon
+428,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Cameroon
+429,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,NA
+430,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,NA
+431,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Cameroon
+432,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Cameroon
+433,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,29.63702,-8.37278,The Democratic Republic of the Congo
+434,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Liberia
+435,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Liberia
+436,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Liberia
+437,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Liberia
+438,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Liberia
+439,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Liberia
+440,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Liberia
+441,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Liberia
+442,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Liberia
+443,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Liberia
+444,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Liberia
+445,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Liberia
+446,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Liberia
+447,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+448,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,25.93333,2.96667,The Democratic Republic of the Congo
+449,Kinixys belliana,Kinixys belliana subsp. belliana,Kinixys,NA,NA,The Democratic Republic of the Congo
+450,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,24.45,0.76667,The Democratic Republic of the Congo
+451,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,24.45,0.76667,The Democratic Republic of the Congo
+452,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,40.16667,-10.65,"Tanzania, United Republic of"
+453,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,29.67611,-4.90556,"Tanzania, United Republic of"
+454,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,29.67611,-4.90556,"Tanzania, United Republic of"
+455,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,29.67611,-4.90556,"Tanzania, United Republic of"
+456,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,29.67611,-4.90556,"Tanzania, United Republic of"
+457,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,40.18333,-10.26667,"Tanzania, United Republic of"
+458,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,40.18333,-10.26667,"Tanzania, United Republic of"
+459,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,40.18333,-10.26667,"Tanzania, United Republic of"
+460,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,40.18333,-10.26667,"Tanzania, United Republic of"
+461,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,40.18333,-10.26667,"Tanzania, United Republic of"
+462,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,38.68126,-9.92552,"Tanzania, United Republic of"
+463,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+464,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+465,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Congo
+466,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,23.61667,2.63333,The Democratic Republic of the Congo
+467,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,The Democratic Republic of the Congo
+468,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+469,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+470,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+471,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+472,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+473,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+474,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+475,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+476,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+477,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+478,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,31.86667,-25.96667,South Africa
+479,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Cameroon
+480,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Cameroon
+481,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,South Africa
+482,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+483,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+484,Kinixys erosa,"Kinixys erosa Schweigger, 1812",Kinixys,NA,NA,Cameroon
+485,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.35,-19.95,Zimbabwe
+486,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.35,-19.95,Zimbabwe
+487,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.46667,-19.65,Zimbabwe
+488,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.46667,-19.65,Zimbabwe
+489,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,32.35,-19.95,Zimbabwe
+490,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+491,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+492,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+493,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+494,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+495,Kinixys belliana,"Kinixys belliana Gray, 1831",Kinixys,NA,NA,NA
+496,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,NA,NA,South Africa
+497,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,37.96667,-2.41667,Kenya
+498,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,37.96667,-2.41667,Kenya
+499,Kinixys spekii,"Kinixys spekii Gray, 1863",Kinixys,40.2025,-2.45667,Kenya
+500,Kinixys homeana,"Kinixys homeana Bell, 1827",Kinixys,NA,NA,Nigeria
