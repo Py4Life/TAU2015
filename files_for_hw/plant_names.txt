@@ -3,7 +3,6 @@ Cardamine pratensis subsp. paludosa (Knaf) Celak.
 Cardamine pratensis subsp. paludosa (Knaf) Celak.
 Cardamine pratensis subsp. paludosa (Knaf) Celak.
 Crataegus phaenopyrum (L.) Medik.
-Triticum ×borisovii Zhebrak
 Helianthus annuus L.
 Trifolium repens L.
 Avena sativa L.
@@ -13,6 +12,7 @@ Triticum durum Desf.
 Triticum polonicum L.
 Triticum durum Desf.
 Gossypium arboreum L.
+Solanum acaule var. aemulans (Bitter & Wittm.) Correll
 Gossypium herbaceum L.
 Sesamum indicum L.
 Physalis peruviana L.
@@ -25,7 +25,6 @@ Epipactis helleborine (L.) Crantz
 Brassica rapa L.
 Rumex scutatus L.
 Ricinus communis L.
-Sorghum ×drummondii (Nees) Millsp. & Chase
 Gossypium herbaceum L.
 Salix phylicifolia L.
 Stephanomeria exigua subsp. carotifera (Hoover) Gottlieb
@@ -76,6 +75,7 @@ Oxyphyllum ulicinum Phil.
 Triniteurybia aberrans (A. Nelson) Brouillet & Urbatsch & R. P. Roberts
 Gymnanthemum abyssinicum S. Bip. ex Walp.
 Carduus acanthoides L.
+Solanum aculeatum var. fuertesii O.E. Schulz
 Calendula arvensis (Vaill.) L.
 Saussurea alpina (L.) DC.
 Campanula americana L.
