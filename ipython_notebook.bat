@@ -1,1 +1,1 @@
-c:\pyzo2015a\ipython_notebook.exe
+c:\pyzo2015a\scripts\ipython.exe notebook
