@@ -22,8 +22,8 @@ REFERENCE   2  (bases 1 to 789)
 FEATURES             Location/Qualifiers
      source          1..789
                      /mol_type="genomic DNA"
-                     /db_xref="taxon:53083"
                      /organism="Paphiopedilum emersonii"
+                     /db_xref="taxon:53083"
      misc_feature    1..380
                      /note="internal transcribed spacer 1"
      gene            381..550
