@@ -34,10 +34,10 @@
 			<th width="10%">
 				Notebook
 			</th>
-			<th width="20%">
+			<th width="15%">
 				Last updated
 			</th>
-			<th width="10%">
+			<th width="15%">
 				Extra
 			</th>
 		</tr>
@@ -458,13 +458,15 @@
 </table>
 <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js"></script>
 <script type="text/javascript">
-	$('.lastUpdated').each(function(index, value){
-		var path = value.id;
+	$('.lastUpdated').each(function(index, el){
+		var path = el.id;
 		$.getJSON("https://api.github.com/repos/Py4Life/TAU2015/commits?per_page=1&path=" + path, function(data) {
 			var date = data[0].commit.author.date;
+			var author = data[0].commit.author.name;
 			date = moment(date, "YYYY-MM-DDTHH:mm:SSZ").fromNow();
-			//var message = data[0].commit.message;
-			value.innerHTML = date;
+			var message = data[0].commit.message;
+			el.innerHTML = date;
+			el.setAttribute('title', author + ": " + message);
 		});
 	});
 </script>
