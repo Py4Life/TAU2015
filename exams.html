@@ -1,16 +1,90 @@
 <p>
   <ul>
     <li>
-      <strong>Exam dates:</strong> Moed A: 6 July, 9:00, Sherman 010. Moed B: 4 August, 9:00, Sherman 010.
+      <strong>Exam dates:</strong> 
+      <ul>
+        <li>Moed A: 6 July, 9:00, Sherman 010.</li>
+        <li>Moed B: 4 August, 9:00, Sherman 010.</li>
+      </ul>
     </li>
     <li>
       <strong>Duration:</strong> 2 hours.
     </li>
     <li>
-      <strong>Open material:</strong> full access to the internet; email and messaging <strong>prohibited</strong>.
-    </li>
-    <li>
-      <strong>Example exam:</strong> will be available soon.
-    </li>
+      <strong>Open material:</strong> 
+      <ul>
+        <li>full access to the internet.</li>
+        <li>Personal laptops are allowed.</li>
+        <li>Email, phones, SMS, and messaging are <strong>prohibited</strong>.</li>
+      </ul>
+    </li>    
   </ul>
 </p>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th width="20%">
+        Date
+      </th>
+      <th width="35%">
+        Title
+      </th>
+      <th width="15%">
+        Notebook
+      </th>
+      <th width="15%">
+        Notebook with solutions
+      </th>
+      <th width="15%">
+        Last updated
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>      
+      <td>
+        18 June
+      </td>
+      <td>
+        Exam example
+      </td>
+      <td>   
+        <a target="_blank" href="http://nbviewer.ipython.org/github/Py4Life/TAU2015/blob/master/exam_example.ipynb">
+          <i class="glyphicon glyphicon-eye-open"></i>
+        </a>
+        &nbsp;&nbsp;
+        <a target="_blank" href="https://raw.githubusercontent.com/Py4Life/TAU2015/master/exam_example.ipynb" download>
+          <i class="glyphicon glyphicon-download"></i>
+        </a>
+      </td>
+      <td>   
+        <a target="_blank" href="http://nbviewer.ipython.org/github/Py4Life/TAU2015/blob/master/exam_example_solution.ipynb">
+          <i class="glyphicon glyphicon-eye-open"></i>
+        </a>
+        &nbsp;&nbsp;
+        <a target="_blank" href="https://raw.githubusercontent.com/Py4Life/TAU2015/master/exam_example_solution.ipynb" download>
+          <i class="glyphicon glyphicon-download"></i>
+        </a>
+      </td>
+      <td>
+        <span class="lastUpdated" id="exam_example_solution.ipynb"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js"></script>
+<script type="text/javascript">
+  $('.lastUpdated').each(function(index, el){
+    var path = el.id;
+    $.getJSON("https://api.github.com/repos/Py4Life/TAU2015/commits?per_page=1&path=" + path, function(data) {
+      var date = data[0].commit.author.date;
+      var author = data[0].commit.author.name;
+      date = moment(date, "YYYY-MM-DDTHH:mm:SSZ").fromNow();
+      var message = data[0].commit.message;
+      el.innerHTML = date;
+      el.setAttribute('title', author + ": " + message);
+    });
+  });
+</script>
